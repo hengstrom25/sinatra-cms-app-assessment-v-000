@@ -1,0 +1,26 @@
+<h1> Your Beers </h1>
+
+<p><a href="/beers/new">Add a New Beer</a></p>
+<p><a href="/reviews">See All Beer Reviews</a></p>
+
+<table class="table">
+<thead><td>Beer Name</td><td>Type</td><td>Brewery</td></thead>
+
+<% @beers.each do |beer| %>
+	<tr>
+	<td><%= beer.name %></td>
+	<td><%= beer.beer_type %></td>
+	<td><%= beer.brewery %></td>
+	<td><a href="/beers/<%=beer.id%>">Click to Edit or Delete</a></td>
+	<td><a href="/reviews/<%=beer.id%>">Click to See Reviews</a></td></tr>
+	
+<% end %>
+</table>
+<p></p>
+
+<p><a href="/logout">Log Out</a></p>
+
+
+
+
+	
