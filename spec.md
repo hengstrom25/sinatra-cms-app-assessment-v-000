@@ -17,4 +17,8 @@ Confirm
 - [ ] You have a large number of small Git commits
 - [ ] Your commit messages are meaningful
 - [ ] You made the changes in a commit that relate to the commit message
+<<<<<<< HEAD
 - [ ] You don't include changes in a commit that aren't related to the commit message
+=======
+- [ ] You don't include changes in a commit that aren't related to the commit message
+>>>>>>> c35f41fbaaa7c12333bc10fc9f5ae478b9e5f2bb

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sinatra Content Management System App
 
 ## Overview
@@ -95,3 +96,7 @@ Project reviews are focused on preparing you for technical interviews. Treat pro
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-cms-app-assessment'>Sinatra Assessment</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-cms-app-assessment'>Sinatra Portfolio Project</a> on Learn.co and start learning to code for free.</p>
+=======
+# beerenthusiast-sinatra-app
+Flatiron School Sinatra Portfolio Project
+>>>>>>> c35f41fbaaa7c12333bc10fc9f5ae478b9e5f2bb
